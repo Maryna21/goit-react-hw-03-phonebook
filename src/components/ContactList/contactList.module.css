@@ -1,0 +1,10 @@
+.buttonDelete{
+    margin-left: 15px;
+}
+.item{
+    margin-bottom: 10px;
+}
+
+.buttonDelete:focus{
+    background-color: #0394fc;
+}
